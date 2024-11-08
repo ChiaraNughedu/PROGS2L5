@@ -1,0 +1,161 @@
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EAEDED;
+}
+
+header {
+    width: 100%;
+    height: max-content;
+    padding: 5px 0;
+}
+
+header div {
+    width: 100%;
+    padding: 15px 15px 10px 40px;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    background-color: #222F3E;
+}
+
+header img {
+    width: 12%;
+}
+
+nav ul li {
+    display: inline-block;
+    word-spacing: 5.3px;
+}
+
+ul {
+    padding-left: 0;
+    margin: 0;
+    color: #E3E7E7;
+}
+
+nav {
+    background-color: #364759;
+    padding: 10px 10px 12px 40px;
+    font-size: 1.4em;
+}
+
+nav a {
+    color: #E3E7E7;
+    text-decoration: none;
+}
+
+.shop1 {
+    background-color: #F56600;
+    color: #E3E7E7;
+    width: 100%;
+    height: 40px;
+    margin: 40px 0;
+}
+
+.shop1 p {
+    padding-top: 10px;
+    font-size: 1.2em;
+    word-spacing: 3px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    margin: 30px 0 30px 0;
+}
+
+.holiday {
+    margin-top: 0;
+    background-image: url(../images/bg-image.png);
+    width: 100%;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.holiday h1 {
+    color: #E6EAEA;
+    text-align: center;
+    padding: 40px 0 10px 0;
+}
+
+.holiday h3 {
+    color: #E6EAEA;
+    text-align: center;
+    padding: 10px 0 50px 0;
+}
+
+.linea p {
+    display: inline-block;
+    letter-spacing: 0.2px;
+}
+
+.p1 {
+    display: inline-block color: black;
+    font-size: 1.2em;
+}
+
+.p2 {
+    display: inline-block;
+    color: #117A8D;
+    font-weight: bold;
+}
+
+.firstblock {
+    display: inline-block;
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+
+.cardcontainer {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+.cardcontainer img {
+    display: inline-block;
+    width: 145%;
+    height: auto;
+    margin-left: 0;
+    margin-right: 180px;
+    padding: 0;
+    text-align: center;
+   
+}
+.cardcontainer div {
+    display: inline-block;
+    text-align: center;
+    width: 310px; 
+    height: 360px; 
+    margin: 2rem;
+    padding: 0;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px gray;
+    overflow: hidden;
+}
+
+
+.secondblock {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    height: 160px;
+    padding: 0 5px 5px 5px;
+    background-color: #222F3E;
+    text-align: center;
+}
+footer div {
+    background-color: #364759;
+   padding: 8px;
+}
+footer a {
+    color:#E3E7E7;
+
+}
+footer img {
+    width: 10%;
+    padding-top: 20px;
+
+}
